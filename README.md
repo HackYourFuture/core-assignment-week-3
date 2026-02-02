@@ -1,5 +1,5 @@
 # Core program week 3 assignment
-The week 2 assignment for the HackYourFuture Core program can be found at the following link: 
+The week 3 assignment for the HackYourFuture Core program can be found at the following link: 
 https://hub.hackyourfuture.nl/core-program-week-3-assignment
 
 
